@@ -1,0 +1,2 @@
+# WordleAnalyzer
+solucion
