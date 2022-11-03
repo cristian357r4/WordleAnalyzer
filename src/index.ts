@@ -42,3 +42,5 @@ let mejorPalabra: {[key: string]: number};
 mejorPalabra = wordAnalyzer.getBestWordRanked(distribucionByWord, maxValue);
 
 console.log(`La mejor Palabra para iniciar el juego es '${Object.keys(mejorPalabra)[0]}' con un rank de ${Object.values(mejorPalabra)[0]}`);
+
+/// Esto solo es una prueba
